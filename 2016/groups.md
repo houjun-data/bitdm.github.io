@@ -27,7 +27,7 @@ permalink: /2016/groups/
 |:-------------|:-------------|:-----|:-----|
 |3|李懿|2120151008|[作业1Github地址](https://github.com/amazingcosmos/DM-course-SeaweedAnalysis)
 |3|郑清卓|2120151071|
-|3|侯军|2120150992|
+|3|侯军|2120150992|[homework1的地址]https://github.com/houjun-data/homework1
 
 |组号|姓名|学号|作业一|
 |:-------------|:-------------|:-----|:-----|
